@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/lucy-sees/wanjiru)
-  ![GitHub stars](https://img.shields.io/github/stars/lucy-sees/wanjiru?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/lucy-sees/wanjiru?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/lucy-sees/Wanjiru)
+  ![GitHub stars](https://img.shields.io/github/stars/lucy-sees/Wanjiru?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/lucy-sees/Wanjiru?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lucy-sees_?style=social)](https://twitter.com/intent/follow?screen_name=lucy-sees_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/jOA6ROBXdRE?style=social)](https://youtu.be/jOA6ROBXdRE)
 
@@ -11,9 +11,9 @@
 
   <h2 align="center">Wanjiru- Photographer Portfolio Website</h2>
 
-  Wanjiruis a fully responsive portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Wanjiru is a fully responsive portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://lucy-sees.github.io/wanjiru/"><strong>➥ Live Demo</strong></a>
+  <a href="https://lucy-sees.github.io/Wanjiru/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Wanjiru Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Wanjiru Desktop Demo](./assets/images/Wanjiru-demo-screenshots.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -36,13 +36,13 @@ To run **Richard Ryan** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/lucy-sees/wanjiru.git
+sudo git clone https://github.com/lucy-sees/Wanjiru.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/lucy-sees/wanjiru.git
+git clone https://github.com/lucy-sees/Wanjiru.git
 ```
 
 ### Contact
