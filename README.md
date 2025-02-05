@@ -13,7 +13,7 @@
 
   Wanjiru is a fully responsive portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://lucy-sees.github.io/Wanjiru/"><strong>➥ Live Demo</strong></a>
+  <a href="https://wanjiru.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
